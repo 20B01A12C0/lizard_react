@@ -1,0 +1,38 @@
+h3{
+    color:royalblue;
+    position:relative;
+    right: 50px;
+}
+h4{
+    color:rgb(146, 137, 137);
+    position: relative;
+    
+}
+h1{
+    position: relative;
+    right: 150px;
+
+}
+.img{
+    width: 350px;
+    top: 100px;
+    border-radius: 7px;
+    
+}
+.liz{
+    background-color: gainsboro;
+    width: 600px;
+    height: 250px;
+    position: relative;
+    
+   
+
+}
+#root{
+  background-color: gainsboro;
+  width: 600px;
+  height: 550px;
+  position:relative;
+  left: 400px;
+  border-radius: 5px;
+}
